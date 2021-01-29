@@ -45,6 +45,12 @@
          "id":22,
          "name":"Jitsi-Raum Sitzecke oben",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Sitzecke-oben"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -57,6 +63,12 @@
          "id":23,
          "name":"Jitsi-Raum Sitzecke unten",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Sitzecke-unten"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
